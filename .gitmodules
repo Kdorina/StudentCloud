@@ -1,0 +1,6 @@
+[submodule "Angular_project"]
+	path = Angular_project
+	url = https://github.com/Kdorina/Angular_project
+[submodule "Projekt_laravel"]
+	path = Projekt_laravel
+	url = https://github.com/Kdorina/Projekt_laravel
